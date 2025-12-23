@@ -1,5 +1,7 @@
 # svg-gamepad-icons
 
+![A screenshot of Inkscape showing the available icons](https://github.com/user-attachments/assets/8d09c8f4-5ba0-4728-a893-b0b2376f83d7)
+
 This is an SVG vector image containing a set of "generic" button prompts for a
 modern gamepad. The idea is that these would, to some extent, be recognizable to
 the end user, no matter what specific kind of gamepad they are using. Right now
